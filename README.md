@@ -1,2 +1,2 @@
 # face-recognition
- project for biom course (sem6)
+ a mini project for biom course (sem6)
